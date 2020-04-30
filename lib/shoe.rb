@@ -8,7 +8,7 @@ def initialize(brand)
 end
 
 def cobble
-  if @condition = new
+  if @condition = "new"
   puts "#{cobble} says that the shoe has been repaired"
 end 
 
